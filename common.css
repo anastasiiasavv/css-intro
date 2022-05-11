@@ -7,7 +7,6 @@
 }
 
 .header__h1 {
-
     font-family: 'Playfair Display', serif;
     border-bottom-color: rgb(37, 54, 74);
     border-left-color:rgb(37, 54, 74);
@@ -27,7 +26,6 @@
     -webkit-font-smoothing:antialiased;
     border-image-repeat: stretch;
     border-image-slice: 100%;
-
 }
 
 .paragraph__text {
@@ -50,6 +48,5 @@
     text-align:center;
     vertical-align: baseline;
     -webkit-font-smoothing:antialiased;
-   
 }
 
