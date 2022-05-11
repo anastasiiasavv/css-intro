@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@200&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@200;400&display=swap');
 * {
     margin: 40;
     padding: 0;
@@ -15,11 +14,11 @@
     border-image-width:1;
     color: rgb(37, 54, 74);
     box-sizing:border-box;
-    font-size:34px;
+    font-size:80px;
     font-stretch: 100%;
-    font-weight:700;
-    letter-spacing:1.428px;
-    line-height:34px;
+    font-weight:900px;
+    letter-spacing:5px;
+    line-height:90px;
     overflow-wrap: break-word;
     text-align:center;
     vertical-align:baseline;
@@ -29,7 +28,7 @@
 }
 
 .paragraph__text {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Raleway', sans-serif;
     border-bottom-color: rgb(81, 92, 109);
     border-image-repeat: stretch;
     border-image-slice:100%;
@@ -39,11 +38,11 @@
     border-top-color:rgb(81, 92, 109);
     box-sizing:border-box;
     color:rgb(81, 92, 109);
-    font-size:16px;
+    font-size:25px;
     font-stretch:100%;
-    font-weight:500;
+    font-weight:580;
     letter-spacing:0.896px;
-    line-height:26.72px;
+    line-height:0px;
     overflow-wrap:break-word;
     text-align:center;
     vertical-align: baseline;
